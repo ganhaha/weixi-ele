@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class='main'>
+  <view class='text-title'>
+    <text class='text-title-content'>TRANS天梭家用电梯</text>    
+  </view> 
+  <view class='PIC'>
+    <image bindtap='TS' class='pic-content' src='http://wx3.sinaimg.cn/mw690/0065fnjfgy1fv0t6y89h9j30ku0b4do3.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <text class='text-list-content'>颜值担当，小井道专家</text>    
+    </view>    
+  </view>  
+  <view class='text-title'>
+    <text class='text-title-content'>XO杭州西奥家用电梯</text>    
+  </view> 
+  <view class='PIC'>
+    <image bindtap='XO' class='pic-content' src='http://wx3.sinaimg.cn/mw690/0065fnjfgy1fv4gff2gkjj30ku0b4te9.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <text class='text-list-content'>售后完善，服务到家</text>    
+    </view>    
+  </view>
+  <view class='text-title'>
+    <text class='text-title-content'>垂询热线</text>    
+  </view> 
+  <view class='PIC'>
+    <image bindtap='preview' class='pic-content' src='http://wx1.sinaimg.cn/mw690/0065fnjfgy1fv4ia602kdj31540lxdl0.jpg' mode='widthFix'></image>       
+  </view>              
+</view>

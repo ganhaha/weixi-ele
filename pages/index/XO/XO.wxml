@@ -1,0 +1,34 @@
+<view class='main'>    
+  <view class='title'>
+    <text class='title-text'>西奥介绍</text>
+  </view>
+  <view class='content'>
+    <text class='content-text' space='ensp'>杭州西奥电梯有限公司在2004年成立于中国杭州，是一家集电梯整机研发、设计、生产、销售、安装及售后维保为一体的现代化综合型电梯服务制造商。</text>    
+  </view>
+  <view class='content'>
+    <text class='content-text' space='ensp'>公司先后获得"高新技术企业"、"国家火炬计划"、“中国优质产品”、“浙江省企业技术中心”、“浙江省名牌产品”、“杭州市著名商标”、“杭州市重点企业”、“浙江制造”、“政府采购电梯十佳供应商”、“浙江省政府质量提名奖”、“杭州市政府质量奖”等荣誉称号。</text>    
+  </view>
+  <view class='title'>
+    <text class='title-text'>服务介绍</text>
+  </view>
+  <view class='content'>
+    <text class='content-text'>杭州西奥电梯拥有完善的服务保障系统，全国24小时免费服务热线可以有效解决客户的问题,运用物联网信息化技术，360°全方位服务全力保障您的楼宇交通安全。</text>    
+  </view>
+  <view class='content'>
+    <text class='content-text-fuwu'>全国24小时免费服务热线：400-826-9998</text>
+  </view>
+  <view class='title'>
+    <text class='title-text'>别墅电梯展厅</text>
+  </view>
+  <view class='xo-map'>
+    <map  longitude="120.2033430000" latitude="30.2578440000" scale="18" markers="{{markers_ele}}" show-location style="width: 100%; height: 300px;"></map>
+  </view>
+  <view class='title'>
+    <text class='title-text'>制造总部</text>
+  </view>
+  <view class='xo-map'>
+    <map longitude="120.2441200000" latitude=" 30.4458900000" scale="18" markers="{{markers_factory}}" show-location style="width: 100%; height: 300px;" enable-scroll="false" show-compass="true"></map>       
+  </view>
+</view>
+
+

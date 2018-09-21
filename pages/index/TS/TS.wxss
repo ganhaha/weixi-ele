@@ -1,0 +1,47 @@
+/* pages/TS/TS.wxss */
+/*.main{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.title{
+  text-align: center
+}*/
+
+.title{
+  border-left-color: brown;
+  border-left-width: 10rpx;
+  border-left-style:solid;
+  border-bottom-color: brown;
+  border-bottom-width: 1rpx; 
+  border-bottom-style:solid;
+  margin-top: 10rpx;
+}
+.title-text{
+  margin-left: 10rpx;
+  font-size: larg;
+}
+.content-text{
+  font-size: small;
+  margin-left: 15rpx;
+}
+
+.TS-PIC{
+  margin: 20rpx;  
+}
+
+.swiper {
+  height: 800rpx;
+  width: 100%;
+}
+.swiper image {
+  height: 100%;
+  width: 100%;
+}
+
+.TS-video{
+  margin: 20rpx;
+  display: flex;
+  justify-content: center;  
+}
