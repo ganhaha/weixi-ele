@@ -1,0 +1,4 @@
+/* pages/index/content-3/content-3.wxss */
+.pic-content{
+  width: 100%
+}

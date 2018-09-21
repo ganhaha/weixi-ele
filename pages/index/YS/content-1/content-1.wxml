@@ -1,0 +1,15 @@
+<!--pages/index/content-1/content-1.wxml-->
+<view>
+  <view>
+   <image class='pic-content' src='http://wx1.sinaimg.cn/mw690/0065fnjfgy1fv7p5tf4lcj31400u0wvy.jpg' mode='widthFix'></image>
+  </view>
+  <view>
+    <text space='true' decode='true'>&nbsp;&nbsp;之前发了关于“姨妈”的那点事，今天就说一说，道一道:
+    </text>
+  </view>
+  <view>
+    <text space='true' decode='true'>&nbsp;&nbsp;为什么有的姑娘每次大姨妈来都会痛？痛的死去活来！而且会有好多血块，颜色发黑？经期前还有胸部胀痛，腰膝酸软等症状！其实这些都是属于气血不和，宫寒的表现！痛经和身体受凉，爱吃生冷食物，情绪波动大都有关系！最重要的还是要暖宫，活血化瘀，打通经络！因为痛则不通，通则不痛！
+    </text>
+  </view>  
+</view>
+

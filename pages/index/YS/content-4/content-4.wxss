@@ -1,0 +1,13 @@
+/* pages/index/content-4/content-4.wxss */
+.main{
+  height: 100%;
+  width:100%;
+  /*background-color:rgb(241, 241, 104);*/
+  display: flex;
+  flex-direction:  column;
+  /*flex-wrap: wrap;
+  justify-content:  space-between*/
+}
+.pic-content{
+  width: 100%
+}

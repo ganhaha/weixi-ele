@@ -1,0 +1,9 @@
+<!--pages/index/content-4/content-4.wxml-->
+<view>
+  <text space='true' decode='true'>&nbsp;&nbsp;️2️年吃膏的孩子体质比以前更好了现在做起了玉竹薄荷膏的小小代言人。</text>
+</view>
+<view class="main">
+  <view class="item" wx:for='{{imgUrls}}' wx:key='*this'>  
+    <image src='{{item}}' data-src='{{item}}' data-list='{{imgUrls}}' mode='widthFix' bindtap='Yulan' class='pic-content'></image>
+  </view>
+</view>  

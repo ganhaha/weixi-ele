@@ -1,0 +1,14 @@
+/* pages/index/content-2/content-2.wxss */
+.main{
+  height: 100%;
+  width:100%;
+  background-color:rgb(241, 241, 104);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:  space-between
+}
+.item{
+  height:370rpx;
+  width: 370rpx;
+  background-color:cyan;  
+}

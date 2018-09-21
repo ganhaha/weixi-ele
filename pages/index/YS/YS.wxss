@@ -1,0 +1,40 @@
+/**index.wxss**/
+.main{
+  display: flex;
+  flex-direction: column;
+}
+.text-title{  
+  border-left-color: brown;
+  border-left-width: 10rpx;
+  border-left-style:solid;
+  font-size:large; 
+  margin-top: 10rpx;  
+  border-bottom-color: brown;
+  border-bottom-width: 1rpx;
+  border-bottom-style:solid;  
+}
+.text-title-content{
+  margin-left: 10rpx;
+  
+}
+.text-list{  
+  font-size: large;
+  color: white; 
+}
+.text-list-content{  
+  position: absolute;  
+  background: -webkit-linear-gradient(bottom,rgba(0, 0, 0, 1),rgba(0, 0, 0, 0));  
+  width: 100%;
+  bottom: 0rpx;  
+}
+.PIC{ 
+  display: flex; 
+  flex-direction: column;
+  position: relative;    
+}  
+.PIC image{
+  margin-top: 1rpx;
+}
+.pic-content{
+  width: 100%;  
+}

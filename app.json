@@ -3,8 +3,13 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/index/XO/XO",
-    "pages/index/TS/TS" 
-      
+    "pages/index/TS/TS",
+    "pages/index/YS/YS",
+    "pages/index/YS/content-1/content-1",
+    "pages/index/YS/content-2/content-2",
+    "pages/index/YS/content-3/content-3",
+    "pages/index/YS/content-4/content-4",
+    "pages/index/YS/content-5/content-5"     
   ],
   "window":{
     "backgroundTextStyle":"light",

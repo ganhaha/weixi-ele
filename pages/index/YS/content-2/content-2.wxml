@@ -1,0 +1,9 @@
+<!--pages/index/content-2/content-2.wxml-->
+<view>
+  <text space='true' decode='true'>&nbsp;&nbsp;爱生气的人得乳腺增生结节，囊肿、肌瘤的几率是翻倍的，除了玉仁膏消肿散结以外，搭配玉蚕疏肝理气，是很有必要的。</text>
+</view>
+<view class="main">
+  <view class="item" wx:for='{{imgUrls}}' wx:key='*this'>  
+    <image src='{{item}}' data-src='{{item}}' data-list='{{imgUrls}}' mode='widthFix' bindtap='Yulan'></image>
+  </view>
+</view>

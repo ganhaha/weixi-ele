@@ -1,0 +1,14 @@
+<!--pages/index/content-3/content-3.wxml-->
+<view>
+  <view>
+   <image class='pic-content' src='http://wx4.sinaimg.cn/mw690/0065fnjfgy1fv7p6m2nytj30u00u00xf.jpg' mode='widthFix'></image>
+  </view>
+  <view>
+    <text space='true' decode='true'>&nbsp;&nbsp;现在这种季节，很多人会咽喉干燥肿痛、鼻炎发作（流鼻血、鼻塞、流鼻涕等）、咳嗽有痰、皮肤紧绷等一系列症状，这些都是秋燥表现，这个时候你可以吃一点玉竹膏试试，养阴润燥，是现在秋季最适合的调理食品️。
+    </text>
+  </view>
+  <view>
+    <text space='true' decode='true'>&nbsp;&nbsp;玉竹膏，老少皆宜，小朋友也可以吃的哦!
+    </text>
+  </view>    
+</view>

@@ -1,0 +1,55 @@
+<!--index.wxml-->
+<view class='main'>
+ <!--<view>
+    <button bindtap='XO'>XO</button>
+  </view>
+  <view>
+    <button bindtap='TS'>TRANS天梭家用电梯</button>
+  </view>-->
+
+  <view class='text-title'>
+    <text class='text-title-content'>关于“姨妈”那点事           </text>    
+  </view> 
+  <view class='PIC'>
+    <image bindtap='content1' class='pic-content' src='http://wx1.sinaimg.cn/mw690/0065fnjfgy1fv7p5tf4lcj31400u0wvy.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <!--<text class='text-list-content'>关于“姨妈”那点事</text>-->    
+    </view>    
+  </view>  
+  <view class='text-title'>
+    <text class='text-title-content'>消肿散结，疏肝理气         </text>    
+  </view> 
+  <view class='PIC'>
+    <image bindtap='content2' class='pic-content' src='http://wx2.sinaimg.cn/mw690/0065fnjfgy1fv7p61917bj31900u044t.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <!--<text class='text-list-content'>消肿散结，疏肝理气</text>-->    
+    </view>    
+  </view> 
+  <view class='text-title'>
+    <text class='text-title-content'>滋阴润燥，老少皆宜         </text>    
+  </view>
+  <view class='PIC'>
+    <image bindtap='content3' class='pic-content' src='http://wx4.sinaimg.cn/mw690/0065fnjfgy1fv7p6m2nytj30u00u00xf.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <!--<text class='text-list-content'>消肿散结，疏肝理气</text>-->    
+    </view>    
+  </view>  
+  <view class='text-title'>
+    <text class='text-title-content'>增强体质，口感好         </text>    
+  </view>
+  <view class='PIC'>
+    <image bindtap='content4' class='pic-content' src='http://wx4.sinaimg.cn/mw690/0065fnjfgy1fv7p6ucwl5j313y0u07aq.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <!--<text class='text-list-content'>消肿散结，疏肝理气</text>-->    
+    </view>    
+  </view>   
+  <view class='text-title'>
+    <text class='text-title-content'>调节脾胃，改善消化         </text>    
+  </view>
+  <view class='PIC'>
+    <image bindtap='content5' class='pic-content' src='http://wx2.sinaimg.cn/mw690/0065fnjfgy1fv7p8thkv1j30qo0k0tbv.jpg' mode='widthFix'></image>
+    <view class='text-list'>
+      <!--<text class='text-list-content'>消肿散结，疏肝理气</text>-->    
+    </view>    
+  </view>                 
+</view>
