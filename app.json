@@ -13,8 +13,24 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#FFFFFF",
     "navigationBarTitleText": "",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "borderStyle":"black",
+    "color":"#000000",
+    "selectedColor":"#FF33CC",
+    "backgroundColor":"#CCFFCC",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "别墅电梯"
+      },
+      {
+        "pagePath": "pages/index/YS/YS",
+        "text": "胡庆余堂"
+      }
+    ]
   }
 }

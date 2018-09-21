@@ -1,4 +1,4 @@
-//index.js
+//YS.js
 //获取应用实例
 const app = getApp()
 
@@ -14,36 +14,39 @@ Page({
 
   content1:function(){
     wx.navigateTo({
-      url:'../index/content-1/content-1'
+      url:'../YS/content-1/content-1'
     })
   },
   content2: function () {
     wx.navigateTo({
-      url: '../index/content-2/content-2'
+      url: '../YS/content-2/content-2'
     })
   },
   content3: function () {
     wx.navigateTo({
-      url: '../index/content-3/content-3'
+      url: '../YS/content-3/content-3'
     })
   },
   content4: function () {
     wx.navigateTo({
-      url: '../index/content-4/content-4'
+      url: '../YS/content-4/content-4'
     })
   },
   content5: function () {
     wx.navigateTo({
-      url: '../index/content-5/content-5'
+      url: '../YS/content-5/content-5'
     })
   },
   TS:function(){
     wx.navigateTo({
-      url:'../index/TS/TS'
+      url:'../YS/TS/TS'
     })
   },
   onLoad: function () {
-    
+    wx.showShareMenu({
+      withShareTicket: true
+    })
+  
   },
   getUserInfo: function() {
    
