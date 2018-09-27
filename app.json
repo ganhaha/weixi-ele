@@ -20,16 +20,21 @@
   "tabBar": {
     "borderStyle":"black",
     "color":"#000000",
-    "selectedColor":"#FF33CC",
-    "backgroundColor":"#CCFFCC",
+    "selectedColor":"#CB4042",
+    "backgroundColor":"#86C166",
+    "position":"bottom",
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "别墅电梯"
+        "text": "别墅电梯",
+        "iconPath":"pages/icon/主页二-01.png",
+        "selectedIconPath":"pages/icon/主页-01.png"
       },
       {
         "pagePath": "pages/index/YS/YS",
-        "text": "胡庆余堂"
+        "text": "滋补膏方",
+        "iconPath": "pages/icon/主页二-01.png",
+        "selectedIconPath": "pages/icon/主页-01.png"
       }
     ]
   }

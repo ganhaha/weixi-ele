@@ -4,7 +4,7 @@
     <text class='text-title-content'>TRANS天梭家用电梯</text>    
   </view> 
   <view class='PIC'>
-    <image bindtap='TS' class='pic-content' src='http://wx3.sinaimg.cn/mw690/0065fnjfgy1fv0t6y89h9j30ku0b4do3.jpg' mode='widthFix'></image>
+    <image bindtap='TS' class='pic-content' src='http://wx3.sinaimg.cn/mw690/0065fnjfgy1furp7lw7pdj30mi0gwjtl.jpg' mode='widthFix'></image>
     <view class='text-list'>
       <text class='text-list-content'>颜值担当，小井道专家</text>    
     </view>    
