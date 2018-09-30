@@ -9,7 +9,8 @@
     "pages/index/YS/content-2/content-2",
     "pages/index/YS/content-3/content-3",
     "pages/index/YS/content-4/content-4",
-    "pages/index/YS/content-5/content-5"     
+    "pages/index/YS/content-5/content-5",
+    "pages/index/CSBK/CSBK"     
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -33,6 +34,12 @@
       {
         "pagePath": "pages/index/YS/YS",
         "text": "滋补膏方",
+        "iconPath": "pages/icon/主页二-01.png",
+        "selectedIconPath": "pages/icon/主页-01.png"
+      },
+      {
+        "pagePath": "pages/index/CSBK/CSBK",
+        "text": "各类查询",
         "iconPath": "pages/icon/主页二-01.png",
         "selectedIconPath": "pages/icon/主页-01.png"
       }
